@@ -1,2 +1,2 @@
-# releases
-Releases of SSL Checker
+# Releases
+Releases of HTTPS Checker
