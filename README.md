@@ -7,3 +7,6 @@ Supports modern 64bit versions of **Mac**, **Windows** & **Linux**.
 Find out more and download from here: [https://httpschecker.net/](https://httpschecker.net/)
 
 Or find the latest release files here: [https://github.com/HTTPSChecker/releases/releases](https://github.com/HTTPSChecker/releases/releases)
+
+### Check out our [Wiki](https://github.com/HTTPSChecker/releases/wiki) for usage information.
+
