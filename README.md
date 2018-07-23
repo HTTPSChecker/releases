@@ -1,6 +1,6 @@
 # HTTPS Checker
 
-[HTTPS Checker](https://httpschecker.net/guides/https-checker) is a cross platform Desktop app to crawl over a website and find **mixed content** issues.
+[HTTPS Checker](https://httpschecker.net/guides/https-checker) is a cross platform Desktop app to crawl over a website and find **mixed content** issues. Useful when migrating a website to HTTPS. 
 
 Supports modern 64bit versions of **Mac**, **Windows** & **Linux**.
 
